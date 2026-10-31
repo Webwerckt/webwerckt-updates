@@ -1,0 +1,9 @@
+{
+  "version": "0.14.1",
+  "details_url": "https://github.com/Webwerckt/webwerckt-base/releases/tag/v0.14.1",
+  "download_url": "https://updates.webwerckt.nl/webwerckt-base/webwerckt-base-0.14.1.zip",
+  "signature": "0VQompD0oJZGq4kyubKCVf+4Os0LCLHlZneXj1e1oZeqnlg68Abz5qtx0Dh88da5NP1Yb4acE2q82Q06sBN1AA==",
+  "requires_php": "8.3",
+  "requires": "6.5",
+  "last_updated": "2026-10-31T08:38:02Z"
+}
